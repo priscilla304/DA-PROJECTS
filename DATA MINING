@@ -1,1 +1,0 @@
-The goal in this task is to learn a classification rule that differentiates between two types of particles generated in high energy collider experiments. It is a binary classification problem with 78 attributes. The data set has 50,000 examples. Our task is to build a classification model that optimizes ROC area (maximize).
