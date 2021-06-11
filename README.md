@@ -1,5 +1,5 @@
 # Data Science Projects
-Data Analytics Project
+
 
 **CORONA VIRUS CASES WORLD DATA - DATA VISUALIZATION:**
 
@@ -13,7 +13,7 @@ https://cran.r-project.org/web/packages/covid19.analytics/vignettes/covid19.anal
 •	The New York Times (Github repository)
 https://github.com/nytimes/covid-19-data/
 
-**Twitter Sentiment Analysis - DM2:**
+**Twitter Sentiment Analysis - Data Mining2:**
 Sentiment Analysis is one the interesting topic in Data Mining where we get the key words from the tweets and determine the public reaction. This helps not only helps us make decisions but also get a quick idea from a large set of data.
 The steps followed in this projects are :
 Extract Tweets using Keyword(Data Extraction Using Twitter Development Account)
@@ -24,5 +24,5 @@ Sentiment Analysis
 Comparison cloud for the combined tweets of two set of tweets.
 Text Clustering
 
-**Particle Classification - DM1:**
+**Particle Classification - Data Mining1:**
 The goal in this task is to learn a classification rule that differentiates between two types of particles generated in high energy collider experiments. It is a binary classification problem with 78 attributes. The data set has 50,000 examples. Our task is to build a classification model that optimizes ROC area (maximize).
