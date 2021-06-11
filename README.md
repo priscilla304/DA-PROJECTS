@@ -1,4 +1,4 @@
-# CORONA VIRUS WORLD DATA
+# Data Science Projects
 Data Analytics Project
 
 **CORONA VIRUS CASES WORLD DATA - DATA VISUALIZATION:**
